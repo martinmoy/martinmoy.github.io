@@ -1,11 +1,11 @@
 # Site settings
 author: Martin Moy
-title: 
+title: My Blog About Everyday Learning
 header-img: img/home-bg.png
 email: martinmoy1991@gmail.com
 copyright_name: Martin Moy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding, Creating, Crashing, Cleaning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  martinmoy
